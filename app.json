@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "login-sign-up-app",
+    "slug": "login-sign-up-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Appicons/ic_launcher.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.abeni_10.loginsignupapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "62b5e101-9d8b-43b8-a7be-79e1cb22440d"
+      }
+    }
+  }
+}
